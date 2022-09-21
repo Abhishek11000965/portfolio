@@ -1,0 +1,23 @@
+table, tr, th, td {
+    border:1px solid rgb(255, 255, 255);
+    border-collapse: collapse;
+   
+}
+
+th{
+    width: 900px;
+    background-color: rgb(215, 239, 215);
+    color: white;
+    text-align: center;
+}
+
+td{
+    background-color: rgb(215, 239, 215);
+    text-align: center;
+}
+tr{
+    height : 50px;
+}
+h1{
+    color: rgb(215, 239, 215);
+}

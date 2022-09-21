@@ -1,0 +1,27 @@
+table, tr, td {
+    border:1px solid rgb(146, 138, 138);
+    border-collapse: collapse;
+  
+   
+}
+
+
+
+.second{
+    background-color: rgb(215, 239, 215);
+    text-align: center;
+    width: 600px;
+}
+.first{
+    background-color: rgb(215, 239, 215);
+    text-align: center;
+    width: 200px;
+
+}
+tr{
+    height : 80px;
+    width: 100px;
+}
+h1{
+    color: lightseagreen;
+}
